@@ -6,5 +6,6 @@
 //Custom name styles:
 {DD}EmperorWiggy	#c9{DD}#c3Emperor#c4Wiggy
 Vulpes	#c5-[#c6Vulpes#c5]-
-FixFireasdas	#c3Fix#c4Fire
-OldTimesasdas	#c9O#c4l#c9d#c4T#c9i#c4m#c9e#c4s
+deathride58	#c9blind&deafride58
+FixFire	#c9Fix#c6Fire
+EXtr3meGam3rs	#c5Sally-val
